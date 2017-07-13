@@ -1,0 +1,81 @@
+body {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+
+#service-center {
+	margin-top: 30px;
+}
+
+main {
+	flex: 1 0 auto;
+}
+
+nav {
+	background-color: #424242;
+}
+
+.nav-wrapper li a {
+	color: #757575;
+}
+
+.gum {
+	color: #757575;
+}
+.gum2 {
+	color: #BDBDBD;
+}
+
+#search {
+	background-color: #616161;
+}
+
+#searching {
+	background-color: #FBE9E7;
+}
+
+.page-footer {
+	background-color: #424242;
+}
+
+#slope {
+	background-color: #212121;
+}
+
+.clamp {
+	background-color: #FF8A65;
+	height: 48px;
+}
+
+#vim {
+	height: 100px;
+	width: 100%;
+}
+
+#grow {
+	margin-top: 20px;
+}
+
+/*Count Codes*/
+.count
+{
+  line-height: 100px;
+  color:black;
+  font-size:50px;
+}
+
+.fun {
+	color: #F44336;
+}
+
+#retired {
+	background-color: #E0E0E0;
+	width: 100%;
+	margin-bottom: 0px;
+}
+
+#clever {
+	width: 100%; 
+	margin-bottom: 0px;
+}
